@@ -1,0 +1,46 @@
+{
+  "name": "single.dog",
+  "version": "1.0.0",
+  "description": "关爱单身狗",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzwm/single.dog.git"
+  },
+  "keywords": [
+    "single",
+    "dog"
+  ],
+  "author": "Samwise Wang <wangjunzhe4444@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tzwm/single.dog/issues"
+  },
+  "homepage": "https://github.com/tzwm/single.dog#readme",
+  "dependencies": {
+    "alt": "^0.17.1",
+    "lodash": "^3.10.1",
+    "material-ui": "^0.10.4",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "react-tap-event-plugin": "^0.1.7"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.22",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.16.0",
+    "file-loader": "^0.8.4",
+    "jshint": "^2.8.0",
+    "jshint-loader": "^0.8.3",
+    "jsxhint-loader": "^0.2.0",
+    "node-sass": "^3.2.0",
+    "react-hot-loader": "^1.2.8",
+    "sass-loader": "^2.0.1",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.11.0",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
