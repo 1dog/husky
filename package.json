@@ -4,7 +4,7 @@
   "description": "关爱单身狗",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server --optimize-dedupe --devtool eval --colors --hot --content-base ./src"
   },
   "repository": {
     "type": "git",
